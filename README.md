@@ -1,9 +1,9 @@
 # Livraria
 
-UnB - Universidade de Brasília
-FCTE - Faculdade de Ciências e Tecnologia em Engenharia
-OO - Orientação a Objetos
-Prof. Henrique Gomes de Moura
+UnB - Universidade de Brasília  
+FCTE - Faculdade de Ciências e Tecnologia em Engenharia  
+OO - Orientação a Objetos  
+Prof. Henrique Gomes de Moura  
 
 ---
 
